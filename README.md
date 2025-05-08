@@ -73,9 +73,10 @@ SAIL Director
 email: manning@stanford.edu
 
 
+![ASI-ANI-AGI-types-of-AI](https://github.com/user-attachments/assets/564fcd9a-9d7b-4bd1-8b12-642978e242fe)
 
 
-The 3 Types of Artificial Intelligence: ANI, AGI, and ASI
+### The 3 Types of Artificial Intelligence: ANI, AGI, and ASI
 ￼
 There has been an immense rise in artificial intelligence (AI) applications across various industries recently and it is important to study their capabilities and impact. We can broadly recognize three types of artificial intelligence: Narrow or Weak AI (ANI), General AI (AGI), and Artificial Superintelligence (ASI). The purpose of this article is to explore these three types and compare them with each other.
 ￼
