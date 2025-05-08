@@ -206,3 +206,6 @@ Types of Artificial Intelligence in Everyday Life
 The three types of artificial intelligence: Narrow AI (ANI), General AI (AGI), and Artificial Superintelligence (ASI), guide the evolution of new technology. ANI excels in specific tasks. AGI mirrors human cognition. On the other hand, ASI holds a futuristic promise.
 While ANI faces limitations in flexibility, AGI envisions adaptable machines. The potential of Artificial Superintelligence sparks inspiration among researchers but also raises concerns about control. As ANI reaches its peak, the emergence of General and ASI brings exciting possibilities and challenges. Understanding these AI types is important as they increasingly become vital to our lives.
 So, do you think that we have achieved AGI? Do you think it is far off in the future? And, do you think it is even possible?
+
+
+![image](https://github.com/user-attachments/assets/f6edc743-0c4b-4031-b4bc-aa531d5ce6f0)
