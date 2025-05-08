@@ -2,6 +2,9 @@
 Artificial Intelligence Research Center, Stanford University
 Department of Artificial Narrow Intelligence 🧠.
 
+
+![ASI-ANI-AGI-types-of-AI](https://github.com/user-attachments/assets/564fcd9a-9d7b-4bd1-8b12-642978e242fe)
+
 ## 
 Artificial Intelligence (AI) encompasses various types, including Artificial Narrow Intelligence (ANI), which is specialized for specific tasks, and Artificial General Intelligence (AGI), which can perform any intellectual task like a human. Artificial Superintelligence (ASI) refers to AI that surpasses human intelligence across all domains, representing a significant leap beyond AGI.**Types of Artificial Intelligence**
 
@@ -73,7 +76,7 @@ SAIL Director
 email: manning@stanford.edu
 
 
-![ASI-ANI-AGI-types-of-AI](https://github.com/user-attachments/assets/564fcd9a-9d7b-4bd1-8b12-642978e242fe)
+
 
 
 ### The 3 Types of Artificial Intelligence: ANI, AGI, and ASI
