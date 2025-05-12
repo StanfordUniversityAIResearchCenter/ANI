@@ -212,8 +212,8 @@ While ANI faces limitations in flexibility, AGI envisions adaptable machines. Th
 So, do you think that we have achieved AGI? Do you think it is far off in the future? And, do you think it is even possible?
 
 
-![image](https://github.com/user-attachments/assets/f6edc743-0c4b-4031-b4bc-aa531d5ce6f0)
-![image](https://github.com/user-attachments/assets/f08471bd-9df5-4156-bd19-b0395eba8626)
-![image](https://github.com/user-attachments/assets/ad862877-f537-41c2-ba7b-a0b4731d9d4d)
+---
+EOF
+
 
 
